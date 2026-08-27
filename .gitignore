@@ -1,0 +1,8 @@
+# Nested publish repo — keep ToBrowser HTML + assets (including .glb / .ifc).
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+*.tmp
+.vscode/
+.idea/
